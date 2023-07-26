@@ -17,7 +17,7 @@ I have honed my skills through various online courses, covering topics like iOS 
 While I haven't participated in any hackathons or competitions yet, I'm actively seeking opportunities to challenge myself, collaborate with others, and contribute to exciting projects in the coding community.
 
 ###### 🔗 Online Presence
-Let's connect on [LinkedIn](https://www.linkedin.com/in/artem-chzhen/) to stay updated on my journey in the world of software development.
+Let's connect on [LinkedIn](https://www.linkedin.com/in/artem-chzhen-2926b7264/) to stay updated on my journey in the world of software development.
 
 ###### 📧 Contact
 Feel free to reach out to me via email at [artchzhen@gmail.com](mailto:artchzhen@gmail.com), or you can also contact me on Telegram [@ArtChzhen](https://t.me/ArtChzhen).
