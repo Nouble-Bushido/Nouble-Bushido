@@ -8,7 +8,7 @@ I have a keen interest in mobile app development and have chosen Swift as my lan
 I have developed and worked on various projects. Some of them include "Yes/No," a fun and interactive app that enables users to make decisions, "Math Trainer," an app designed to challenge users with math exercises, and "Memories," a project that has brought many cherished moments to life.
 
 ## 🎯 Learning Goals
-My journey in software development is a continuous learning process. Currently, I'm focused on expanding my knowledge and proficiency in Swift and iOS development. I'm also exploring other technologies and programming languages to broaden my skill set further.
+My journey in software development is a continuous learning process. Currently, I'm focused on expanding my knowledge and proficiency in Swift and iOS development. I'm also exploring other technologies to broaden my skill set further.
 
 ## 🎓 Education
 I have honed my skills through various online courses, covering topics like iOS app development and Swift programming. I believe in continuous self-improvement and actively seek new resources to stay up-to-date with the latest trends in the industry.
