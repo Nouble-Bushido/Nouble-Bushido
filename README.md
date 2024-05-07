@@ -5,7 +5,13 @@ Hello, I'm Artem Chzhen, a software developer with a passion for creating innova
 I have a keen interest in mobile app development and have chosen Swift as my language of choice to bring ideas to life. Being a part of the [Rise](https://rise.vladimirbrejcha.com) project has been an amazing experience that further fuels my enthusiasm for creating meaningful applications.
 
 ## 📱 Projects
-I have developed and worked on various projects. Some of them include "Yes/No," a fun and interactive app that enables users to make decisions, "Math Trainer," an app designed to challenge users with math exercises, and "Memories," a project that has brought many cherished moments to life.
+I have developed and worked on various projects. Some of them include:
+
+Son-of-Mom-s-Friend: An app that shows users what achievements famous people had by the user's age. It includes a database of famous people and requests the user's date of birth to provide relevant information.
+AntiProcrastinator: A productivity app aimed at helping users overcome procrastination.
+Yes/No: A fun and interactive app that enables users to make decisions.
+Math Trainer: An app designed to challenge users with math exercises.
+Memories: A project that has brought many cherished moments to life.
 
 ## 🎯 Learning Goals
 My journey in software development is a continuous learning process. Currently, I'm focused on expanding my knowledge and proficiency in Swift and iOS development. I'm also exploring other technologies to broaden my skill set further.
