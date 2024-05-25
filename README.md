@@ -6,7 +6,7 @@ I have a keen interest in mobile app development and have chosen Swift as my lan
 
 ## 📱 Projects
 I have developed and worked on various projects. Some of them include:
-- **Rise: Reimagine your mornings with Rise app, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
+- **Rise:** Reimagine your mornings with Rise app, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
 - **Son-of-Mom-s-Friend:** An app that shows users what achievements famous people had by the user's age. It includes a database of famous people and requests the user's date of birth to provide relevant information.
 - **AntiProcrastinator:** A productivity app aimed at helping users overcome procrastination.
 - **Yes/No:** A fun and interactive app that enables users to make decisions.
