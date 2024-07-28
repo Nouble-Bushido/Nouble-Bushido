@@ -23,4 +23,4 @@ I have honed my skills through various online courses, covering topics like iOS 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/artem-chzhen-2926b7264/) to stay updated on my journey in the world of software development.
 
 ## 📧 Contact
-Feel free to reach out to me via email at [artchzhen@gmail.com](mailto:artchzhen@gmail.com), or you can also contact me on Telegram [@ArtChzhen](https://t.me/ArtByter).
+Feel free to reach out to me via email at [artchzhen@gmail.com](mailto:artchzhen@gmail.com), or you can also contact me on Telegram [@ArtByter](https://t.me/ArtByter).
