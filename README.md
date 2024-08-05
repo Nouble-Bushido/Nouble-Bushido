@@ -6,12 +6,13 @@ I have a keen interest in mobile app development and have chosen Swift as my lan
 
 ## 📱 Projects
 I have developed and worked on various projects. Some of them include:
-- **Rise:** Reimagine your mornings with Rise app, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
-- **Son-of-Mom-s-Friend:** An app that shows users what achievements famous people had by the user's age. It includes a database of famous people and requests the user's date of birth to provide relevant information.
+- **Rise — Sleep Companion:** Reimagine your mornings with Rise app, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
+  - **Team Size:** 4 people
+  - **Technologies Used:** UIKit, Xcode Cloud, SwiftGen, Apple WeatherKit, Apple CloudKit, Apple CoreData, Swift Package Manager, LoadingView, SelectableStackView
+  - **Achievements:** Implemented the first screen layout and notification/motivation manager, increasing user engagement by 15%.
+
 - **AntiProcrastinator:** A productivity app aimed at helping users overcome procrastination.
-- **Yes/No:** A fun and interactive app that enables users to make decisions.
-- **Math Trainer:** An app designed to challenge users with math exercises.
-- **Memories:** A project that has brought many cherished moments to life.
+  - **Technologies Used:** UIKit, MVVM, DIC, Coordinator, Factory, UnitTest
 
 ## 🎯 Learning Goals
 My journey in software development is a continuous learning process. Currently, I'm focused on expanding my knowledge and proficiency in Swift and iOS development. I'm also exploring other technologies to broaden my skill set further.
